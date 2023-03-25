@@ -6,7 +6,4 @@
     button {
         @apply border py-2 px-3 rounded-full;
     }
-    li {
-        @apply font-bold text-3xl p-8 cursor-pointer
-    }
 }

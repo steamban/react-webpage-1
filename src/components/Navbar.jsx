@@ -25,11 +25,11 @@ function Navbar() {
             }
          >
             <ul className="flex flex-col fixed w-full h-full items-center justify-center">
-               <li>Home</li>
-               <li>Destinations</li>
-               <li>Reservations</li>
-               <li>Amenities</li>
-               <li>Rooms</li>
+               <li className="font-bold text-3xl p-8 cursor-pointer" >Home</li>
+               <li className="font-bold text-3xl p-8 cursor-pointer" >Destinations</li>
+               <li className="font-bold text-3xl p-8 cursor-pointer" >Reservations</li>
+               <li className="font-bold text-3xl p-8 cursor-pointer" >Amenities</li>
+               <li className="font-bold text-3xl p-8 cursor-pointer" >Rooms</li>
             </ul>
          </div>
       </div>
