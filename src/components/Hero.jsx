@@ -18,7 +18,7 @@ function Hero() {
                   Debitis pariatur iusto quibusdam illum consequuntur et id
                   nulla. Ut, et odio!
                </p>
-               <button className="bg-white text-black ">Reserve Now</button>
+               <button className="bg-white text-black mt-2">Reserve Now</button>
             </div>
          </div>
       </div>
